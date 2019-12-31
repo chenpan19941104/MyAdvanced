@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Debug/Debug.iml" filepath="$PROJECT_DIR$/Debug/Debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUC01/JUC01.iml" filepath="$PROJECT_DIR$/JUC01/JUC01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUC02/JUC02.iml" filepath="$PROJECT_DIR$/JUC02/JUC02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUC03/JUC03.iml" filepath="$PROJECT_DIR$/JUC03/JUC03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUC04/JUC04.iml" filepath="$PROJECT_DIR$/JUC04/JUC04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVM01/JVM01.iml" filepath="$PROJECT_DIR$/JVM01/JVM01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVM02/JVM02.iml" filepath="$PROJECT_DIR$/JVM02/JVM02.iml" />
+    </modules>
+  </component>
+</project>
